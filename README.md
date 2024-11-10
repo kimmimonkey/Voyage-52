@@ -36,5 +36,5 @@ coding!
 
 - Teammate name #1: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
 - Eslam Abdelhakem: [GitHub](https://github.com/EslamAbdElhakem)
-- Oluwadunsin Falore: [GitHub](https://github.com/oluwadunsinfalore)
+- Oluwadunsin Falore: [GitHub](https://github.com/oluwadunsinfalore) / [LinkedIn](https://www.linkedin.com/in/Oluwadunsinfalore/)
 - Rhys Miller: [GitHub](https://github.com/rjmills87) / [LinkedIn](https://www.linkedin.com/in/rjmills87/)
