@@ -38,3 +38,4 @@ coding!
 - Eslam Abdelhakem: [GitHub](https://github.com/EslamAbdElhakem)
 - Oluwadunsin Falore: [GitHub](https://github.com/oluwadunsinfalore) / [LinkedIn](https://www.linkedin.com/in/Oluwadunsin-falore/)
 - Rhys Miller: [GitHub](https://github.com/rjmills87) / [LinkedIn](https://www.linkedin.com/in/rjmills87/)
+- Kim Muncey: [GitHub](https://github.com/kimmimonkey) / [LinkedIn](https://www.linkedin.com/in/kimmuncey/)
