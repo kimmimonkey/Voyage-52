@@ -1,6 +1,6 @@
 import "./App.css";
 import Header from "./components/Header";
-
+import Home from "./pages/Home";
 import AdminLogin from "./pages/AdminLogin";
 import AdminDashboard from "./pages/AdminDashboard";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
@@ -10,9 +10,10 @@ import Footer from "./components/Footer";
 export default function App() {
   return (
     <BrowserRouter>
-      <Header />
+      <Home/> 
       {/*<SuccessModal />*/}
       <Routes>
+        <Route path="/" element= {<Home />} />
         <Route path="/admin-login" element={<AdminLogin />} />
         <Route path="/admin-dashboard" element={<AdminDashboard />} />
       </Routes>
