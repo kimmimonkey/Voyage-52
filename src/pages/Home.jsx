@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "./Header.jsx";
-import Button from "./ui/button.jsx";
-import Footer from "./Footer.jsx";
+import Header from "../components/Header";
+import { Button } from "../components/ui/button";
+import Footer from "../components/Footer"
 
 export default function Home() {
   return (
@@ -9,12 +9,8 @@ export default function Home() {
       <Header />
       <section className="header">
         <h1 className="heading"> Welcome to SolPlanner </h1>
-        <p>
-          <h2> The app to help you manage your solar panel appointments </h2>
-          <br>
-            <h3> brought to you by Solar Energy Solutions</h3>
-          </br>
-        </p>
+        <h2> The app to help you manage your solar panel appointments </h2>
+        <h3> brought to you by Solar Energy Solutions</h3>
       </section>
       <section className="buttons-container">
         <Button>Admin</Button> <Button>Customer</Button>
@@ -72,7 +68,7 @@ export default function Home() {
         </div>
       </section>
       <section className="icons-container">
-        /* icon links to go here - X, Instagram, YouTube, LinkedIn */
+        {/* icon links to go here - X, Instagram, YouTube, LinkedIn */}
       </section>
       <section className="use_cases-explore-resources">
         <div className="use_case-container">
